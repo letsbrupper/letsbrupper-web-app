@@ -36,6 +36,6 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "web-base-components": "git+https://github.com/letsbrupper/web-base-components.git"
+    "letsbrupper-base-components": "^1.0.0"
   }
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {Button} from 'web-base-components'
+import {Button} from 'letsbrupper-base-components'
 
 const Index = () => {
   return (
